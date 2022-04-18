@@ -1,0 +1,6 @@
+header{
+    display: flex; /*para que aparezcan todos los botones horizontal y alineados*/
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
